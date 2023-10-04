@@ -9,3 +9,5 @@
   启动：
     前端：npm run dev
     后端：xxApplicaiton
+
+https://github.com/tony2y/RuoYi-flowable
